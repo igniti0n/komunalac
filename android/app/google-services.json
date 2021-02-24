@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534614034089",
+    "firebase_url": "https://crikvenica-ff031.firebaseio.com",
+    "project_id": "crikvenica-ff031",
+    "storage_bucket": "crikvenica-ff031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534614034089:android:d628bff1b02d5eb8ea8bb8",
+        "android_client_info": {
+          "package_name": "com.einventura.ekomurvica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534614034089-p3c3vnkk6t3qk9atbpe2v9pa1667qf5n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_01RXAk6FtzMbgTSvOdwA7P6HYu4TbHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534614034089-p3c3vnkk6t3qk9atbpe2v9pa1667qf5n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
